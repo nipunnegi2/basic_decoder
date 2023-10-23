@@ -13,7 +13,7 @@ if "-b64" in sys.argv:
     
     
 if "-b32" in sys.argv:
-    index=(sys.argv).index("-b64")
+    index=(sys.argv).index("-b32")
     print((base64.b32decode(sys.argv[index+1])).decode())
     
     
