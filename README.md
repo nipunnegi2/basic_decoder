@@ -20,7 +20,7 @@ Usage:
 
 Getting Started:
 
-    Clone the repository: git clone https://github.com/yourusername/base64-base32-decoder.git
+    Clone the repository: git clone https://github.com/nipunnegi2/basic_decoder.git
     Navigate to the project directory: cd base64-base32-decoder
     Run the script as described in the usage section.
 
